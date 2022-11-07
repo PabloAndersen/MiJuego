@@ -1,0 +1,125 @@
+#juego1:hover,
+#juego2:hover,
+#juego3:hover,
+#menuPrin:hover {
+    border-style: solid;
+    background-color: yellow;
+}
+
+a {
+    color: black;
+    font-size: 500%;
+    text-decoration-line: none;
+
+}
+
+#juego1 {
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    border-style: solid;
+    background-color: white;
+}
+
+#juego2 {
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    border-style: solid;
+    background-color: white;
+}
+
+#juego3 {
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    top: 65%;
+    left: 40%;
+    border-style: solid;
+    background-color: white;
+}
+
+#menu {
+    background-color: lightblue;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+}
+
+#cuerpoVictoria {
+    background-image: url("imagenes/confetti.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#menuPrincipal {
+    font-size: xx-large;
+}
+
+#menuPrin {
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    top: 85%;
+    left: 40%;
+    border-style: solid;
+    background-color: white;
+}
+
+#trofeo {
+    position: absolute;
+    left: 32.5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#skull {
+    position: absolute;
+    left: 37%;
+}
+
+#cuerpoMuerte {
+    background-color: black;
+}
+
+#h1M {
+    color: white;
+}
+
+#raton{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 35%;
+    left: 10%;
+}
+#miFoto{
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    height: 80%;
+    width: 40%;
+}
+h1{
+    width: 590px;
+    height: 50px;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    background-color: wheat;
+    color: red;
+}

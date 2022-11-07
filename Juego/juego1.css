@@ -1,0 +1,72 @@
+div {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+}
+
+#container {
+    width: 1800px;
+    height: 870px;
+    position: absolute;
+    background: lightblue;
+}
+
+#animate {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color: red;
+}
+
+#animate2 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color: green;
+}
+
+#animate3 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color: blue;
+}
+
+#animate4 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color: orangered;
+}
+
+#animate5 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color: blueviolet;
+}
+
+#demo {
+    position: absolute;
+    top: 90%;
+    left: 80%;
+    color: red;
+    font-size: xx-large;
+}
+
+#demo2 {
+    position: absolute;
+    top: 90%;
+    left: 5%;
+    color: red;
+    font-size: xx-large;
+}
+
+#cuerpoJuego1 {
+    background-color: black;
+}
